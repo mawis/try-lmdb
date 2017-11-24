@@ -1,0 +1,7 @@
+[package]
+name = "dbtry"
+version = "0.1.0"
+authors = ["Matthias Wimmer <m@tthias.eu>"]
+
+[dependencies]
+lmdb-rs = "0.7.6"
